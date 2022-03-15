@@ -1,0 +1,1 @@
+alias gittag='git describe --tags --abbrev=0'
